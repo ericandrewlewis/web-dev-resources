@@ -10,3 +10,7 @@ A super lightweight introduction to web technologies, and table of contents to t
 [git](git.md)
 
 [WordPress](wordpress.md)
+
+## Contributing!
+
+Contributions oh so welcome. Open up an issue laying out what you'd like to add.
