@@ -19,4 +19,4 @@ The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS 
 
 ## Blogs
 
-[CSS tricks](http://css-tricks.com) Chris Coyier's legendary blog about CSS.
+[CSS tricks](http://css-tricks.com) Chris Coyier's blog about CSS.
