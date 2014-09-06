@@ -1,4 +1,4 @@
-HTMl & CSS
+HTML & CSS
 =
 
 ## Specifications
@@ -9,7 +9,7 @@ The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS 
 
 ## Articles
 
-[How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) By Tali Garsiel and Paul Irish. Relatively in-depth look at how rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
+[How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) By Tali Garsiel and Paul Irish. How browser rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
 
 [* { box-sizing: border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) by Paul Irish.
 
