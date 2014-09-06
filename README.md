@@ -8,3 +8,5 @@ A compilation of useful resources to blast you to the web development stars with
 [git](git.md)
 
 [CSS](css.md)
+
+[WordPress](wordpress.md)
