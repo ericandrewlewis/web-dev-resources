@@ -1,0 +1,66 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/Cellar/node/0.10.25/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '--save-dev',
+1 verbose cli   'grunt-{tpush}' ]
+2 info using npm@1.3.24
+3 info using node@v0.10.25
+4 verbose cache add [ 'grunt-{tpush}', null ]
+5 verbose cache add name=undefined spec="grunt-{tpush}" args=["grunt-{tpush}",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'grunt-{tpush}',
+6 verbose parsed url   path: 'grunt-{tpush}',
+6 verbose parsed url   href: 'grunt-{tpush}' }
+7 silly lockFile 587dc62c-grunt-tpush grunt-{tpush}
+8 verbose lock grunt-{tpush} /Users/eric/.npm/587dc62c-grunt-tpush.lock
+9 silly lockFile 587dc62c-grunt-tpush grunt-{tpush}
+10 silly lockFile 587dc62c-grunt-tpush grunt-{tpush}
+11 verbose addNamed [ 'grunt-{tpush}', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile 822acbcc-grunt-tpush grunt-{tpush}@
+14 verbose lock grunt-{tpush}@ /Users/eric/.npm/822acbcc-grunt-tpush.lock
+15 silly addNameRange { name: 'grunt-{tpush}', range: '*', hasData: false }
+16 verbose url raw grunt-{tpush}
+17 verbose url resolving [ 'https://registry.npmjs.org/', './grunt-%7Btpush%7D' ]
+18 verbose url resolved https://registry.npmjs.org/grunt-%7Btpush%7D
+19 info trying registry request attempt 1 at 06:09:32
+20 http GET https://registry.npmjs.org/grunt-%7Btpush%7D
+21 http 404 https://registry.npmjs.org/grunt-%7Btpush%7D
+22 silly registry.get cb [ 404,
+22 silly registry.get   { date: 'Sat, 06 Sep 2014 10:09:32 GMT',
+22 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R14B04)',
+22 silly registry.get     'content-type': 'application/json',
+22 silly registry.get     'cache-control': 'max-age=0',
+22 silly registry.get     'content-length': '52',
+22 silly registry.get     'accept-ranges': 'bytes',
+22 silly registry.get     via: '1.1 varnish',
+22 silly registry.get     age: '0',
+22 silly registry.get     'x-served-by': 'cache-jfk1024-JFK',
+22 silly registry.get     'x-cache': 'MISS',
+22 silly registry.get     'x-cache-hits': '0',
+22 silly registry.get     'x-timer': 'S1409998172.457303,VS0,VE25',
+22 silly registry.get     'keep-alive': 'timeout=10, max=50',
+22 silly registry.get     connection: 'Keep-Alive' } ]
+23 silly lockFile 822acbcc-grunt-tpush grunt-{tpush}@
+24 silly lockFile 822acbcc-grunt-tpush grunt-{tpush}@
+25 error 404 'grunt-%7Btpush%7D' is not in the npm registry.
+25 error 404 You should bug the author to publish it
+25 error 404
+25 error 404 Note that you can also install from a
+25 error 404 tarball, folder, or http url, or git url.
+26 error System Darwin 13.3.0
+27 error command "/usr/local/Cellar/node/0.10.25/bin/node" "/usr/local/bin/npm" "install" "--save-dev" "grunt-{tpush}"
+28 error cwd /Users/eric/Desktop/web-dev-resources
+29 error node -v v0.10.25
+30 error npm -v 1.3.24
+31 error code E404
+32 verbose exit [ 1, true ]
