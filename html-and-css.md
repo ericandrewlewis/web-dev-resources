@@ -19,6 +19,8 @@ The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS 
 
 ## Resources
 
+[HTML5 Boilerplate](http://html5boilerplate.com/), a lean HTML template of best-practices with plenty of documentation.
+
 [Can I use](http://caniuse.com/) Browser support information for HTML/CSS properties/features.
 
 ## Blogs
