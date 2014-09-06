@@ -5,6 +5,8 @@ A feather-light introduction to web technologies, and table of contents to usefu
 
 [HTML & CSS](html-and-css.md)
 
+[Javascript](javascript.md)
+
 [git](git.md)
 
 [WordPress](wordpress.md)
