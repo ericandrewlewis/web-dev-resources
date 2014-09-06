@@ -11,6 +11,8 @@ The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS 
 
 [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) By Tali Garsiel and Paul Irish. How browser rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
 
+[The Protocol-relative URL](http://www.paulirish.com/2010/the-protocol-relative-url/) by Paul Irish.
+
 [* { box-sizing: border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) by Paul Irish.
 
 [Block Formatting Contexts](http://www.yuiblog.com/blog/2010/05/19/css-101-block-formatting-contexts/) by the YUI team.
