@@ -1,12 +1,10 @@
 Web Developer Resources
 =
 
-A compilation of useful resources to blast you to the web development stars with the fastest and most highly performant CSS transition possible.
+A feather-light introduction to web technologies, and table of contents to useful resources on the internet for web developers.
 
-[General](general.md)
+[HTML & CSS](html-and-css.md)
 
 [git](git.md)
-
-[CSS](css.md)
 
 [WordPress](wordpress.md)

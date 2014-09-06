@@ -1,11 +1,15 @@
-CSS
+HTMl & CSS
 =
 
 ## Specifications
 
+The [WHATWG](http://www.whatwg.org/specs/web-apps/current-work/multipage/) creates the [HTML living standard](http://www.whatwg.org/specs/web-apps/current-work/multipage/), defining how browsers should implement HTML.
+
 The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS specification, defining how browsers should implement CSS. The latest ready-for-production specification is [Snapshot 2010](http://www.w3.org/TR/css-2010/).
 
 ## Articles
+
+[How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) By Tali Garsiel and Paul Irish. Relatively in-depth look at how rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
 
 [* { box-sizing: border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) by Paul Irish.
 
