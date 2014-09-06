@@ -9,7 +9,6 @@ Web Developer Resources
 
 [Pro Git](http://git-scm.com/book) by Scott Chacon. A comprehensive, free online resource about Git.
 
-### Educational Games
+[trygit](https://try.github.io/levels/1/challenges/1) by Github. A learning game.
 
-[trygit](https://try.github.io/levels/1/challenges/1) by Github.
-[Learn Git branching](http://pcottle.github.io/learnGitBranching/)
+[Learn Git branching](http://pcottle.github.io/learnGitBranching/) A learning game with visual commit history.
