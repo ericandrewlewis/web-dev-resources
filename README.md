@@ -11,6 +11,6 @@ A super lightweight introduction to web technologies, and table of contents to t
 
 [WordPress](wordpress.md)
 
-## Contributing!
+## Contributing
 
-Contributions oh so welcome. Open up an issue laying out what you'd like to add.
+Contributions welcome. Open up an issue laying out what you'd like to add.
