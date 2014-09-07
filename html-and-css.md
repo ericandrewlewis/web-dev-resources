@@ -19,9 +19,15 @@ The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS 
 
 [The Z-Index CSS Property: A Comprehensive Look](http://www.smashingmagazine.com/2009/09/15/the-z-index-css-property-a-comprehensive-look/) by Louis Lazaris.
 
-## Resources
+## Libraries
+
+[Normalize.css](http://necolas.github.io/normalize.css/) makes browsers render all elements more consistently and in line with modern standards.
+
+[Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
 
 [HTML5 Boilerplate](http://html5boilerplate.com/), a lean HTML template of best-practices with plenty of documentation.
+
+## Resources
 
 [Can I use](http://caniuse.com/) Browser support information for HTML/CSS properties/features.
 
