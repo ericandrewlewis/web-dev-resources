@@ -7,6 +7,8 @@ A super lightweight introduction to web technologies, and table of contents to t
 
 [Javascript](javascript.md)
 
+[Build tools](build-tools.md)
+
 [git](git.md)
 
 [WordPress](wordpress.md)
