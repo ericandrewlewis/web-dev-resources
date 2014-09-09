@@ -9,7 +9,7 @@ The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS 
 
 ## User Agent Stylesheets
 
-Browsers come with stylesheets that load on every page: [Firefox](http://mxr.mozilla.org/mozilla-central/source/layout/style/html.css), [Webkit (Safari)](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css), [Chromium](https://code.google.com/p/chromium/codesearch#chromium/src/remoting/webapp/main.css).
+Browsers come with stylesheets that load on every page: [Firefox](http://mxr.mozilla.org/mozilla-central/source/layout/style/html.css), [Webkit (Safari)](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css), [Chromium](https://code.google.com/p/chromium/codesearch#chromium/src/third_party/WebKit/Source/core/css/html.css).
 
 ## Articles
 
