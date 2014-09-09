@@ -7,6 +7,10 @@ The [WHATWG](http://www.whatwg.org/specs/web-apps/current-work/multipage/) creat
 
 The [W3 CSS working group](http://www.w3.org/Style/CSS/members) creates the CSS specification, defining how browsers should implement CSS. The latest ready-for-production specification is [Snapshot 2010](http://www.w3.org/TR/css-2010/).
 
+## User Agent Stylesheets
+
+Browsers come with stylesheets that load on every page: [Firefox](http://mxr.mozilla.org/mozilla-central/source/layout/style/html.css), [Webkit (Safari)](http://trac.webkit.org/browser/trunk/Source/WebCore/css/html.css), [Chromium](https://code.google.com/p/chromium/codesearch#chromium/src/remoting/webapp/main.css).
+
 ## Articles
 
 [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) By Tali Garsiel and Paul Irish. How browser rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
