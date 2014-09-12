@@ -13,6 +13,10 @@ A super lightweight introduction to web technologies, and table of contents to t
 
 [WordPress](wordpress.md)
 
+## Uncategorized
+
+[Imperative vs Declarative Programming](http://latentflip.com/imperative-vs-declarative/)
+
 ## Contributing
 
 Contributions welcome. Open up an issue laying out what you'd like to add.
