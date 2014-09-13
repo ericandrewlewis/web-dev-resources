@@ -3,6 +3,8 @@ Javascript
 
 Javascript is the programming language commonly used for client-side (in browser) functionality. [ECMA International](http://www.ecma-international.org/default.htm) defines the ECMAScript standard (synonymous with Javascript), the most widely supported among browsers being [ECMA-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm).
 
+[Javascript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns) by Addy Osmani
+
 ## MVC/MVV/MV*
 
 Model-View-Controller (and the plethora of related concepts) aim to create a pragmatic software architecture in Javascript applications.
