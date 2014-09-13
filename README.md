@@ -1,7 +1,8 @@
 Web Developer Resources
 =
 
-A super lightweight introduction to web technologies, and table of contents to top-notch resources on the internet for web developers.
+A super lightweight introduction to web technologies, and table of contents to top-notch
+resources on the internet for web developers.
 
 [HTML & CSS](html-and-css.md)
 
@@ -18,6 +19,11 @@ A super lightweight introduction to web technologies, and table of contents to t
 ## Uncategorized
 
 [Imperative vs Declarative Programming](http://latentflip.com/imperative-vs-declarative/)
+
+A *package management system* automates the process of installing, upgrading, configuring,
+and removing software packages. There are package managers for operating systems (apt-get
+for Ubuntu, brew for Mac) as well as for programming languages (Composer forPHP, npm for Node),
+even applications (Package Control for Sublime Text).
 
 ## Contributing
 
