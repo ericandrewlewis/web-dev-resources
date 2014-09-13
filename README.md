@@ -7,6 +7,8 @@ A super lightweight introduction to web technologies, and table of contents to t
 
 [Javascript](javascript.md)
 
+[Local development environment](local-development-environment.md)
+
 [Build tools](build-tools.md)
 
 [git](git.md)
