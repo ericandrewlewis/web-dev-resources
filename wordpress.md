@@ -3,6 +3,8 @@ WordPress
 
 [WordPress](http://wordpress.org/) is an open source, PHP-based content management system for the web, developed by the [WordPress core community](http://make.wordpress.org/core/).
 
+Get [latest major version](http://wordpress.org/download/), or the alpha of the next version via the WordPress core development repo git mirror: git://develop.git.wordpress.org.
+
 ## Articles
 
 [WordPress + Memcached](http://scotty-t.com/2012/01/20/wordpress-memcached/) by Scott Taylor
@@ -36,13 +38,14 @@ Standalone libraries that can be included with plugins or themes.
 [Gravity Forms](http://www.gravityforms.com/) offers UI for administrators to create forms with ease and output them on the front-end. Requires a paid license. Not easily extensible in some regards, and development takes place in a closed community.
 
 [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
-## Blogs
-
-[Post Status](http://www.poststat.us/), Brian Krogsgard's WordPress News site.
 
 ## Themes
 
 [Timber](https://github.com/jarednova/timber) adds support for the [Twig Template engine](http://twig.sensiolabs.org/) in WordPress theme templates, which means you can benefit from features like multiple inheritance to your templates.
+
+## Blogs
+
+[Post Status](http://www.poststat.us/), Brian Krogsgard's WordPress News site.
 
 ## Podcasts
 
