@@ -17,13 +17,21 @@ Standalone libraries that can be included with plugins or themes.
 
 ## Plugins
 
+[Debug Bar](https://wordpress.org/plugins/debug-bar/) Add a debug menu to the admin bar that shows query, cache and other helpful debugging info.
+
+[Debug Bar Console](https://wordpress.org/plugins/debug-bar-console/) Adds a PHP/MySQL console to the debug bar.
+
 [Memcached Object Cache](https://wordpress.org/plugins/memcached/) Use Memcached as an object cache. Requires Memcached, see <sup>1</sup>.
 
 [Batcache](https://github.com/Automattic/batcache) A full-page cache using [Memcached](http://memcached.org/). Requires Memcached, see <sup>1</sup>.
 
+[WPDB Migrate Pro](https://deliciousbrains.com/wp-migrate-db-pro/) Sync DB content between WordPress installs. Requires a paid license.
+
 [Require Login](https://github.com/manovotny/wordpress-require-login) Limit front-end access to logged in users.
 
 [Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/)
+
+[Gravity Forms](http://www.gravityforms.com/) offers UI for administrators to create forms with ease and output them on the front-end. Requires a paid license. Not easily extensible in some regards, and development takes place in a closed community.
 
 ## Blogs
 
