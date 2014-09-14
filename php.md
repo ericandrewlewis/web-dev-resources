@@ -19,4 +19,4 @@ PHP is typically run on with a web server. It can be setup as an apache module
 
 [PEAR](http://pear.php.net/) is a PHP library repository, with libraries and code written in PHP that can be loaded in your application.
 
-A package manager for PECL and PEAR is [available for the command line](http://pear.php.net/manual/en/installation.getting.php).
+A package manager for PECL and PEAR extensions is [available for the command line](http://pear.php.net/manual/en/installation.getting.php).
