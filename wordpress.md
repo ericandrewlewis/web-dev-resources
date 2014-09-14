@@ -23,7 +23,7 @@ Standalone libraries that can be included with plugins or themes.
 
 [Memcached Object Cache](https://wordpress.org/plugins/memcached/) Use Memcached as an object cache. Requires Memcached, see <sup>1</sup>.
 
-[Batcache](https://github.com/Automattic/batcache) A full-page cache using [Memcached](http://memcached.org/). Requires Memcached, see <sup>1</sup>.
+[Batcache](https://github.com/Automattic/batcache) A full-page cache using Memcached. Requires Memcached, see <sup>1</sup>.
 
 [Mercator](https://github.com/humanmade/Mercator) Multisite domain mapping for the modern era (requires 3.9+). A sequel-plugin to [WPMU Domain Mapping](http://wordpress.org/plugins/wordpress-mu-domain-mapping/).
 
@@ -39,6 +39,10 @@ Standalone libraries that can be included with plugins or themes.
 ## Blogs
 
 [Post Status](http://www.poststat.us/), Brian Krogsgard's WordPress News site.
+
+## Themes
+
+[Timber](https://github.com/jarednova/timber) adds support for the [Twig Template engine](http://twig.sensiolabs.org/) in WordPress theme templates, which means you can benefit from features like multiple inheritance to your templates.
 
 ## Podcasts
 
