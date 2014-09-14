@@ -8,6 +8,8 @@ resources on the internet for web developers.
 
 [Javascript](javascript.md)
 
+[PHP](php.md)
+
 [Local development environment](local-development-environment.md)
 
 [Web servers](web-servers.md)

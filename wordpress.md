@@ -17,7 +17,9 @@ Standalone libraries that can be included with plugins or themes.
 
 ## Plugins
 
-[Batcache](https://github.com/Automattic/batcache) A full-page cache using Memcached.
+[Memcached Object Cache](https://wordpress.org/plugins/memcached/) Use Memcached as an object cache. Requires Memcached, see <sup>1</sup>.
+
+[Batcache](https://github.com/Automattic/batcache) A full-page cache using [Memcached](http://memcached.org/). Requires Memcached, see <sup>1</sup>.
 
 [Require Login](https://github.com/manovotny/wordpress-require-login) Limit front-end access to logged in users.
 
@@ -32,3 +34,7 @@ Standalone libraries that can be included with plugins or themes.
 [Apply Filters](http://applyfilters.fm/), A WordPress development podcast.
 
 [Dradcast](http://dradcast.com/), A general WordPress community news podcast.
+
+## Footnotes
+
+* <sup>1</sup> Memcached is not available in common shared environments or the core PHP install, as it is a PECL extension. For installation, see ["How to install and use Memcached on Ubuntu 12.04"](php.md)
