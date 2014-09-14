@@ -32,3 +32,7 @@ even applications (Package Control for Sublime Text).
 ## Contributing
 
 Contributions welcome. Open up an issue laying out what you'd like to add.
+
+## Licensing
+
+This repository is licensed under the [WTFPL](LICENSE).
