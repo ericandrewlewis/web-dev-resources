@@ -9,8 +9,14 @@ PHP is typically run on with a web server. It can be setup as an apache module
 
 [Running PHP as an Apache module vs CGI vs FastCGI](http://blog.layershift.com/which-php-mode-apache-vs-cgi-vs-fastcgi/)
 
-[XDebug](http://xdebug.org/)
+## Debugging
+
+[XDebug](http://xdebug.org/) is a PHP extension which provides debugging information, profiling capabilities, interactive script debugging with a debugger front-end, and code coverage analysis.
+
+## PECL and PEAR
 
 [PECL](http://pecl.php.net/) is a PHP extension repository, with extensions written in C that can be loaded into PHP to provide additional functionality.
 
 [PEAR](http://pear.php.net/) is a PHP library repository, with libraries and code written in PHP that can be loaded in your application.
+
+A package manager for PECL and PEAR is [available for the command line](http://pear.php.net/manual/en/installation.getting.php).
