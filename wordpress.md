@@ -3,7 +3,7 @@ WordPress
 
 [WordPress](http://wordpress.org/) is an open source, PHP-based content management system for the web, developed by the [WordPress core community](http://make.wordpress.org/core/).
 
-Get [latest major version](http://wordpress.org/download/), or the alpha of the next version via the WordPress core development repo git mirror: git://develop.git.wordpress.org.
+Get [latest major version](http://wordpress.org/download/), or clone the git mirror of alpha development: git://develop.git.wordpress.org.
 
 ## Articles
 
