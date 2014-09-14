@@ -11,12 +11,12 @@ PHP is typically run on with a web server.
 
 ## Debugging
 
-[XDebug](http://xdebug.org/) is a PHP extension which provides debugging information, profiling capabilities, interactive script debugging with a debugger front-end, and code coverage analysis.
+[XDebug](http://xdebug.org/) is an extension which provides debugging information, profiling capabilities, interactive script debugging with a debugger front-end, and code coverage analysis.
 
 ## PECL and PEAR
 
 [PECL](http://pecl.php.net/) is a PHP extension repository, with extensions written in C that can be loaded into PHP to provide additional functionality.
 
-[PEAR](http://pear.php.net/) is a PHP library repository, with libraries and code written in PHP that can be loaded in your application.
+[PEAR](http://pear.php.net/) is a PHP library repository, with libraries written in PHP that can be loaded in your application.
 
 A package manager for PECL and PEAR extensions is [available for the command line](http://pear.php.net/manual/en/installation.getting.php).
