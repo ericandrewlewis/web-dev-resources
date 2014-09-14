@@ -25,6 +25,8 @@ Standalone libraries that can be included with plugins or themes.
 
 [Batcache](https://github.com/Automattic/batcache) A full-page cache using [Memcached](http://memcached.org/). Requires Memcached, see <sup>1</sup>.
 
+[Mercator](https://github.com/humanmade/Mercator) Multisite domain mapping for the modern era (requires 3.9+). A sequel-plugin to [WPMU Domain Mapping](http://wordpress.org/plugins/wordpress-mu-domain-mapping/).
+
 [WPDB Migrate Pro](https://deliciousbrains.com/wp-migrate-db-pro/) Sync DB content between WordPress installs. Requires a paid license.
 
 [Require Login](https://github.com/manovotny/wordpress-require-login) Limit front-end access to logged in users.
