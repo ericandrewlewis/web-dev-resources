@@ -35,6 +35,7 @@ Standalone libraries that can be included with plugins or themes.
 
 [Gravity Forms](http://www.gravityforms.com/) offers UI for administrators to create forms with ease and output them on the front-end. Requires a paid license. Not easily extensible in some regards, and development takes place in a closed community.
 
+[Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
 ## Blogs
 
 [Post Status](http://www.poststat.us/), Brian Krogsgard's WordPress News site.
