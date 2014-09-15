@@ -45,7 +45,7 @@ Standalone libraries that can be included with plugins or themes.
 
 ## Themes
 
-[Timber](https://github.com/jarednova/timber) adds support for the [Twig Template engine](http://twig.sensiolabs.org/) in WordPress theme templates, which means you can benefit from features like multiple inheritance to your templates.
+[Timber](https://github.com/jarednova/timber) adds support for the [Twig Template engine](http://twig.sensiolabs.org/) in WordPress theme templates, which means you can benefit from features like multiple inheritance while templating.
 
 ## Blogs
 
