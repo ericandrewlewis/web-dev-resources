@@ -21,9 +21,9 @@ Standalone libraries that can be included with plugins or themes.
 
 [Debug Bar](https://wordpress.org/plugins/debug-bar/) Add a debug menu to the admin bar that shows query, cache and other helpful debugging info.
 
-[Debug Bar Console](https://wordpress.org/plugins/debug-bar-console/) Adds a PHP/MySQL console to the debug bar.
+[Debug Bar Console](https://wordpress.org/plugins/debug-bar-console/) Add a PHP/MySQL console to the debug bar.
 
-[Query Monitor](https://wordpress.org/plugins/query-monitor/) Advanced debugging utility, including support for Ajax requests.
+[Query Monitor](https://wordpress.org/plugins/query-monitor/) Adds debug output including: all DB queries, all hooks and their callbacks, PHP errors, constants, WP_Http requests.
 
 [Demo Data Creator](https://wordpress.org/plugins/demo-data-creator/)
 
