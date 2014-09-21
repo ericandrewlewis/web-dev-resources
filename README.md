@@ -14,6 +14,8 @@ resources on the internet for web developers.
 
 [Web servers](web-servers.md)
 
+[Web hosts](web-hosts.md)
+
 [Build tools](build-tools.md)
 
 [git](git.md)
