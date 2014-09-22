@@ -18,4 +18,4 @@ A web accelerator stands between the internet and web server software, speeding 
 
 Caching is of extreme importance to make the experience of anyone and anything connecting to a website as efficient and enjoyable as possible.
 
-HTTP Caching informs anything interacting with a web server (e.g. browsers and CDNs) about how to deal with caching. [HTTP Caching]https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) describes common strategies.
+HTTP Caching informs anything interacting with a web server (e.g. browsers and CDNs) about how to deal with caching. [HTTP Caching](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching) describes common strategies.
