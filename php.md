@@ -9,6 +9,10 @@ PHP is typically run on with a web server.
 
 [Running PHP as an Apache module vs CGI vs FastCGI](http://blog.layershift.com/which-php-mode-apache-vs-cgi-vs-fastcgi/)
 
+## Caching
+
+[PHP The Right Way, Object Caching](http://www.phptherightway.com/#object_caching)
+
 ## Debugging
 
 [XDebug](http://xdebug.org/) is an extension which provides debugging information, profiling capabilities, interactive script debugging with a debugger front-end, and code coverage analysis.
