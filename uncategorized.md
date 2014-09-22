@@ -9,3 +9,5 @@ for Ubuntu, brew for Mac) as well as for programming languages (Composer forPHP,
 even applications (Package Control for Sublime Text).
 
 [New Relic](http://newrelic.com/) Application monitoring service.
+
+[RegExr](http://www.regexr.com/) A Regular Expression tester.
