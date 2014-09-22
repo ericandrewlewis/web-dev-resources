@@ -3,4 +3,4 @@ Caching
 
 Caching means reusing previously performed tasks along the service of a request - a browser shouldn't download a CSS file that hasn't changed since the last page load, and an application shouldn't requery a database if the value hasn't changed since the last request.
 
-See [HTTP > Caching] and [PHP > Caching].
+See [HTTP > Caching](http.md#caching) and [PHP > Caching](php.md#caching).

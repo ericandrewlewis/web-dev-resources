@@ -1,6 +1,6 @@
 ## Git
 
-[Pro Git](http://git-scm.com/book) by Scott Chacon. A comprehensive, free online book.
+[Pro Git](http://git-scm.com/book) A comprehensive, free online book.
 
 ### Educational Games
 
