@@ -10,7 +10,7 @@ A web server refers to either the hardware (computer) or software (application) 
 
 ## Caching / Optimizing
 
-A web server is responsible for and should be configured to setHTTP cache headers (see [HTTP > Caching](http.md#caching)) appropriately.
+A web server is responsible for and should be configured to set HTTP cache headers (see [HTTP > Caching](http.md#caching)) appropriately.
 
 ## Web Accelerators
 
