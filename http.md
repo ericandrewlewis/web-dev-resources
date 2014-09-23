@@ -1,7 +1,7 @@
 HTTP
 =
 
-Hypertext Transfer Protocol (HTTP) is how most web content is transferred on the web. It is defined by the [http://www.ietf.org/](Internet Engineering Task Force), and the most recent spec is defined by RFCs [7230](https://tools.ietf.org/html/rfc7230), [7231](https://tools.ietf.org/html/rfc7231), [7232](https://tools.ietf.org/html/rfc7232), [7233](https://tools.ietf.org/html/rfc7233), [7234](https://tools.ietf.org/html/rfc7234), and [7235](https://tools.ietf.org/html/rfc7235).
+Hypertext Transfer Protocol (HTTP) is the communication method for transferring data on the web. It is defined by the [http://www.ietf.org/](Internet Engineering Task Force), and the most recent spec is defined by RFCs [7230](https://tools.ietf.org/html/rfc7230), [7231](https://tools.ietf.org/html/rfc7231), [7232](https://tools.ietf.org/html/rfc7232), [7233](https://tools.ietf.org/html/rfc7233), [7234](https://tools.ietf.org/html/rfc7234), and [7235](https://tools.ietf.org/html/rfc7235).
 
 ## Caching
 
