@@ -13,3 +13,7 @@ even applications (Package Control for Sublime Text).
 [RegExr](http://www.regexr.com/) A Regular Expression tester.
 
 [Grunticon](https://github.com/filamentgroup/grunticon) Takes icons and background images and generates CSS classes with cross-browser support.
+
+[Don't use icon fonts, use SVG](http://css-tricks.com/icon-fonts-vs-svg/)
+
+[Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
