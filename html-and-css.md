@@ -25,7 +25,7 @@ Browsers come with stylesheets that load on every page: [Firefox](http://mxr.moz
 
 ## CSS Methodologies
 
-CSS methodologies provide structural guidelines for writing CSS. These include [OOCSS](http://oocss.org/), [SMACSS](http://smacss.com/) and [BEM](http://bem.info/method/definitions/). Here's an [everyman's description of all three](http://justinmarsan.com/css-methodology-and-frameworks/).
+CSS methodologies provide structural guidelines for organizing CSS. These include [OOCSS](http://oocss.org/), [SMACSS](http://smacss.com/) and [BEM](http://bem.info/method/definitions/). Here's an [everyman's description of all three](http://justinmarsan.com/css-methodology-and-frameworks/).
 
 ## Libraries
 
