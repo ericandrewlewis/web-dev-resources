@@ -23,6 +23,10 @@ Browsers come with stylesheets that load on every page: [Firefox](http://mxr.moz
 
 [The Z-Index CSS Property: A Comprehensive Look](http://www.smashingmagazine.com/2009/09/15/the-z-index-css-property-a-comprehensive-look/)
 
+## CSS Methodologies
+
+CSS methodologies provide structural guidelines for writing CSS. These include [OOCSS](http://oocss.org/), [SMACSS](http://smacss.com/) and [BEM](http://bem.info/method/definitions/). Here's an [everyman's description of all three](http://justinmarsan.com/css-methodology-and-frameworks/).
+
 ## Libraries
 
 [Normalize.css](http://necolas.github.io/normalize.css/) makes browsers render all elements more consistently and in line with modern standards.
