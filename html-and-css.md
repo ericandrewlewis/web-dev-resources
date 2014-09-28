@@ -15,7 +15,9 @@ Browsers come with stylesheets that load on every page: [Firefox](http://mxr.moz
 
 [How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) How browser rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
 
-[The Protocol-relative URL](http://www.paulirish.com/2010/the-protocol-relative-url/)
+Responsive images are coming to browsers soon with the `<picture>` element, `srcset` and `sizes` attribute. [Picturefill](http://scottjehl.github.io/picturefill/) is a polyfill so you can use this functionality in browsers that don't yet support them.
+
+Use [Protocol relative URLs](http://www.paulirish.com/2010/the-protocol-relative-url/).
 
 [* { box-sizing: border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
@@ -25,7 +27,7 @@ Browsers come with stylesheets that load on every page: [Firefox](http://mxr.moz
 
 ## CSS Methodologies
 
-CSS methodologies provide structural guidelines for organizing CSS. These include [OOCSS](http://oocss.org/), [SMACSS](http://smacss.com/) and [BEM](http://bem.info/method/definitions/). Here's an [everyman's description of all three](http://justinmarsan.com/css-methodology-and-frameworks/).
+CSS methodologies provide structural guidelines for organizing CSS. See [OOCSS](http://oocss.org/), [SMACSS](http://smacss.com/) and [BEM](http://bem.info/method/definitions/). Here's an [everyman's description of all three](http://justinmarsan.com/css-methodology-and-frameworks/).
 
 ## Libraries
 
