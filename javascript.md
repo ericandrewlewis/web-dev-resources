@@ -13,6 +13,10 @@ Model-View-Controller (and the plethora of related concepts) aim to create a pra
 
 [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals) by Addy Osmani covers MV* historically as well as practically.
 
+## Templating Engines
+
+When rendering HTML via Javascript, a templating engine can be used to separate logic and markup. [Mustache](http://mustache.github.io/) is a great cross-language template engine.
+
 ## Libraries
 
 [jQuery](http://jquery.com/) Cross-browser DOM manipulation, event handling, animation, and Ajax.

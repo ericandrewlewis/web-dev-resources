@@ -4,15 +4,21 @@ Web Developer Resources
 A super lightweight introduction to web technologies, and table of contents to top-notch
 resources on the internet for web developers.
 
+[Local development environment](local-development-environment.md)
+
+[Caching](caching.md)
+
+[Web servers](web-servers.md)
+
+[Web hosts](web-hosts.md)
+
+[HTTP](http.md)
+
 [HTML & CSS](html-and-css.md)
 
 [Javascript](javascript.md)
 
 [PHP](php.md)
-
-[Local development environment](local-development-environment.md)
-
-[Web servers](web-servers.md)
 
 [Build tools](build-tools.md)
 

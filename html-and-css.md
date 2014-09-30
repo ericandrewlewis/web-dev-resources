@@ -13,15 +13,21 @@ Browsers come with stylesheets that load on every page: [Firefox](http://mxr.moz
 
 ## Articles
 
-[How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) By Tali Garsiel and Paul Irish. How browser rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
+[How Browsers Work](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) How browser rendering engines work: HTML parsers, DOM and render tree construction, layout and painting.
 
-[The Protocol-relative URL](http://www.paulirish.com/2010/the-protocol-relative-url/) by Paul Irish.
+Responsive images are coming to browsers soon with the `<picture>` element, `srcset` and `sizes` attribute. [Picturefill](http://scottjehl.github.io/picturefill/) is a polyfill so you can use this functionality in browsers that don't yet support them.
 
-[* { box-sizing: border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/) by Paul Irish.
+Use [Protocol relative URLs](http://www.paulirish.com/2010/the-protocol-relative-url/).
 
-[Block Formatting Contexts](http://www.yuiblog.com/blog/2010/05/19/css-101-block-formatting-contexts/) by the YUI team.
+[* { box-sizing: border-box } FTW](http://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
-[The Z-Index CSS Property: A Comprehensive Look](http://www.smashingmagazine.com/2009/09/15/the-z-index-css-property-a-comprehensive-look/) by Louis Lazaris.
+[Block Formatting Contexts](http://www.yuiblog.com/blog/2010/05/19/css-101-block-formatting-contexts/)
+
+[The Z-Index CSS Property: A Comprehensive Look](http://www.smashingmagazine.com/2009/09/15/the-z-index-css-property-a-comprehensive-look/)
+
+## CSS Methodologies
+
+CSS methodologies provide structural guidelines for organizing CSS. See [OOCSS](http://oocss.org/), [SMACSS](http://smacss.com/) and [BEM](http://bem.info/method/definitions/). Here's an [everyman's description of all three](http://justinmarsan.com/css-methodology-and-frameworks/).
 
 ## Libraries
 
@@ -37,4 +43,4 @@ Browsers come with stylesheets that load on every page: [Firefox](http://mxr.moz
 
 ## Blogs
 
-[CSS tricks](http://css-tricks.com) Chris Coyier's blog about CSS.
+[CSS tricks](http://css-tricks.com) A blog about CSS.

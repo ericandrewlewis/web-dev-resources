@@ -1,13 +1,17 @@
 PHP
 =
 
-[PHP](http://php.net/) is a server-side scripting language, intended for the web.
+[PHP](http://php.net/) is a server-side scripting language.
 
-PHP is typically run on with a web server.
+[Running PHP as an Apache module vs CGI vs FastCGI](http://blog.layershift.com/which-php-mode-apache-vs-cgi-vs-fastcgi/)
+
+## Caching
+
+Memcached can be used as a peristent, cached key-value data store.
 
 [How to install and use Memcached on Ubuntu 12.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-memcache-on-ubuntu-12-04)
 
-[Running PHP as an Apache module vs CGI vs FastCGI](http://blog.layershift.com/which-php-mode-apache-vs-cgi-vs-fastcgi/)
+[PHP The Right Way, Object Caching](http://www.phptherightway.com/#object_caching)
 
 ## Debugging
 

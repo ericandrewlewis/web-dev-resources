@@ -5,11 +5,29 @@ WordPress
 
 Get [latest major version](http://wordpress.org/download/), or clone the git mirror of alpha development: git://develop.git.wordpress.org.
 
-## Articles
+## Caching
 
-[WordPress + Memcached](http://scotty-t.com/2012/01/20/wordpress-memcached/) by Scott Taylor
+[WordPress + Memcached](http://scotty-t.com/2012/01/20/wordpress-memcached/) An overview of caching in WordPress.
 
 [Evan Solomon's "Fast WordPress"](http://evansolomon.me/notes/faster-wordpress-multisite-nginx-batcache/)
+
+See also [Web Servers > Caching](web-servers.md#caching), [HTTP > Caching](http.md#caching) and [PHP > Caching](php.md#caching).
+
+[WordPress Memcached Object cache](https://wordpress.org/plugins/memcached/) Use the WordPress object cache API with Memcached.
+
+## Debugging
+
+[Debug Bar](https://wordpress.org/plugins/debug-bar/) Add a debug menu to the admin bar that shows query, cache and other helpful debugging info.
+
+[Debug Bar Console](https://wordpress.org/plugins/debug-bar-console/) Add a PHP/MySQL console to the debug bar.
+
+[Query Monitor](https://wordpress.org/plugins/query-monitor/) Adds debug output including: all DB queries, all hooks and their callbacks, PHP errors, constants, WP_Http requests.
+
+[Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/)
+
+[Demo Data Creator](https://wordpress.org/plugins/demo-data-creator/)
+
+[WPDB Migrate Pro](https://deliciousbrains.com/wp-migrate-db-pro/) Sync DB content between WordPress installs. Requires a paid license.
 
 ## Libraries
 
@@ -21,25 +39,11 @@ Standalone libraries that can be included with plugins or themes.
 
 ## Plugins
 
-[Debug Bar](https://wordpress.org/plugins/debug-bar/) Add a debug menu to the admin bar that shows query, cache and other helpful debugging info.
-
-[Debug Bar Console](https://wordpress.org/plugins/debug-bar-console/) Add a PHP/MySQL console to the debug bar.
-
-[Query Monitor](https://wordpress.org/plugins/query-monitor/) Adds debug output including: all DB queries, all hooks and their callbacks, PHP errors, constants, WP_Http requests.
-
-[Demo Data Creator](https://wordpress.org/plugins/demo-data-creator/)
-
 [Memcached Object Cache](https://wordpress.org/plugins/memcached/) Use Memcached as an object cache. Requires Memcached, see <sup>1</sup>.
-
-[Batcache](https://github.com/Automattic/batcache) A full-page cache using Memcached. Requires Memcached, see <sup>1</sup>.
 
 [Mercator](https://github.com/humanmade/Mercator) Multisite domain mapping for the modern era (requires 3.9+). A sequel-plugin to [WPMU Domain Mapping](http://wordpress.org/plugins/wordpress-mu-domain-mapping/).
 
-[WPDB Migrate Pro](https://deliciousbrains.com/wp-migrate-db-pro/) Sync DB content between WordPress installs. Requires a paid license.
-
 [Require Login](https://github.com/manovotny/wordpress-require-login) Limit front-end access to logged in users.
-
-[Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/)
 
 [Gravity Forms](http://www.gravityforms.com/) offers UI for administrators to create forms with ease and output them on the front-end. Requires a paid license. Not easily extensible in some regards, and development takes place in a closed community.
 
