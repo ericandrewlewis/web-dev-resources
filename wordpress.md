@@ -9,6 +9,8 @@ Get [latest major version](http://wordpress.org/download/), or clone the git mir
 
 [WordPress + Memcached](http://scotty-t.com/2012/01/20/wordpress-memcached/) by Scott Taylor
 
+[Evan Solomon's "Fast WordPress"](http://evansolomon.me/notes/faster-wordpress-multisite-nginx-batcache/)
+
 ## Libraries
 
 Standalone libraries that can be included with plugins or themes.
