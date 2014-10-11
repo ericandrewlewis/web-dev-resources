@@ -17,3 +17,5 @@ even applications (Package Control for Sublime Text).
 [Don't use icon fonts, use SVG](http://css-tricks.com/icon-fonts-vs-svg/)
 
 [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+Code should be deployed to environments in an automated manner. [Dandelion](https://github.com/scttnlsn/dandelion) is a simple deployment tool.
