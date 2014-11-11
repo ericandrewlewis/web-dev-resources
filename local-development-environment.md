@@ -1,10 +1,10 @@
 Local Development Environment
 =
 
-A local development environment should be used, so you can work on projects without depending on an external server, or even internet connection.
+Live-editing files on a server is not cool. You should work on projects in a controlled, sandboxed environment on your computer.
 
-[MAMP](http://www.mamp.info/en/) is a quick boot, minimal config Mysql, Apache and PHP environment for Mac OS X. Good for beginners.
+Use [MAMP](http://www.mamp.info/en/) for a quick boot, minimal configuration web server with MySQL, Apache and PHP. Good for beginners.
 
-[Vagrant](https://www.vagrantup.com/) allows infinite customization and booting of virtual machines.
+Use [Vagrant](https://www.vagrantup.com/) to create a virtual machine which are replicable (easy to share with a development team) and infinitely customizable.
 
 [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu) Cool walkthrough if you'd like to walk through manual installation of these via command line.
