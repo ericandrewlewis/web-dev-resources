@@ -19,3 +19,7 @@ even applications (Package Control for Sublime Text).
 [Google Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 Code should be deployed to environments in an automated manner. [Dandelion](https://github.com/scttnlsn/dandelion) is a simple deployment tool.
+
+### Chome Dev Tools
+
+[Redefine Javascript functions as they are executing](https://www.youtube.com/watch?v=WQZio5DlSXM).
