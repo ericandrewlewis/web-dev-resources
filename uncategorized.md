@@ -23,3 +23,5 @@ Code should be deployed to environments in an automated manner. [Dandelion](htt
 ### Chome Dev Tools
 
 [Redefine Javascript functions as they are executing](https://www.youtube.com/watch?v=WQZio5DlSXM).
+
+[Employ Progressive Enhancement](http://www.smashingmagazine.com/2009/04/22/progressive-enhancement-what-it-is-and-how-to-use-it/)
