@@ -27,3 +27,5 @@ Code should be deployed to environments in an automated manner. [Dandelion](htt
 [Employ Progressive Enhancement](http://www.smashingmagazine.com/2009/04/22/progressive-enhancement-what-it-is-and-how-to-use-it/)
 
 [Use Web Workers for expensive Javascript tasks](http://www.html5rocks.com/en/tutorials/workers/basics/)
+
+[The SQL Entity-Attribute-Value pattern is an antipattern](http://mikesmithers.wordpress.com/2013/12/22/the-anti-pattern-eavil-database-design/)
