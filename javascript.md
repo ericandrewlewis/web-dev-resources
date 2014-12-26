@@ -5,6 +5,8 @@ Javascript is the programming language commonly used for client-side (in browser
 
 [Javascript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns) by Addy Osmani
 
+"JavaScript has certain characteristics that make it very different than other dynamic languages, namely that it has no concept of threads. Its model of concurrency is completely based around events. This makes it rather different than other general purpose dynamic programming languages like Ruby and Python. At least for certain classes of problems, I’ve found JavaScript to be much easier to program in—for example when writing an IRC server." - Ryan Dahl<sup>[1](http://dailyjs.com/2010/08/10/ryan-dahl-interview/)</sup>
+
 ## MVC/MVV/MV*
 
 Model-View-Controller (and the plethora of related concepts) aim to create a pragmatic software architecture in Javascript applications.
