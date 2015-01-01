@@ -29,3 +29,5 @@ Code should be deployed to environments in an automated manner. [Dandelion](htt
 [Use Web Workers for expensive Javascript tasks](http://www.html5rocks.com/en/tutorials/workers/basics/)
 
 [The SQL Entity-Attribute-Value pattern is an antipattern](http://mikesmithers.wordpress.com/2013/12/22/the-anti-pattern-eavil-database-design/)
+
+[The Jargon File](http://www.catb.org/jargon/html/)
