@@ -23,7 +23,7 @@ When rendering HTML via Javascript, a templating engine can be used to separate 
 
 [jQuery](http://jquery.com/) Cross-browser DOM manipulation, event handling, animation, and Ajax.
 
-[D3](http://d3js.org/) Data-based DOM manipulation.
+[D3](http://d3js.org/) Data-based DOM manipulation. [Three little circles](http://bost.ocks.org/mike/circles/)
 
 [Modernizr](http://modernizr.com/) HTML and CSS feature detection library.
 
