@@ -31,3 +31,5 @@ Code should be deployed to environments in an automated manner. [Dandelion](htt
 [The SQL Entity-Attribute-Value pattern is an antipattern](http://mikesmithers.wordpress.com/2013/12/22/the-anti-pattern-eavil-database-design/)
 
 [The Jargon File](http://www.catb.org/jargon/html/)
+
+[Horizontal Inheritance](http://radar.oreilly.com/2014/01/horizontal-reuse-an-alternative-to-inheritance.html)
