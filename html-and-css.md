@@ -27,9 +27,13 @@ Use [Protocol relative URLs](http://www.paulirish.com/2010/the-protocol-relative
 
 [Create sprites with Instant Sprite](http://instantsprite.com/)
 
+[Breaking up with Sass and using PostCSS as a CSS pre-processor](http://benfrain.com/breaking-up-with-sass-postcss/)
+
 ## CSS Methodologies
 
 CSS methodologies provide structural guidelines for organizing CSS. See [OOCSS](http://oocss.org/), [SMACSS](http://smacss.com/) and [BEM](http://bem.info/method/definitions/). Here's an [everyman's description of all three](http://justinmarsan.com/css-methodology-and-frameworks/).
+
+[BEM 101](https://css-tricks.com/bem-101/)
 
 ## Libraries
 
