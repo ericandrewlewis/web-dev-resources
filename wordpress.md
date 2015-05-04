@@ -49,19 +49,9 @@ Standalone libraries that can be included with plugins or themes.
 
 [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
 
-## Themes
+## Uncategorized
 
-[Timber](https://github.com/jarednova/timber) adds support for the [Twig Template engine](http://twig.sensiolabs.org/) in WordPress theme templates, which means you can benefit from features like multiple inheritance while templating.
-
-## Blogs
-
-[Post Status](http://www.poststat.us/), Brian Krogsgard's WordPress News site.
-
-## Podcasts
-
-[Apply Filters](http://applyfilters.fm/), A WordPress development podcast.
-
-[Dradcast](http://dradcast.com/), A general WordPress community news podcast.
+WordPress' development philosophies were inspired by [Havoc Pennington's writings](http://ometer.com/writing.html)
 
 ## Footnotes
 
