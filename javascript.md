@@ -30,3 +30,9 @@ When rendering HTML via Javascript, a templating engine can be used to separate 
 [ScrollMagic](http://janpaepke.github.io/ScrollMagic/) Scroll interaction jQuery plugin.
 
 [Select2](http://ivaynberg.github.io/select2/) Select box replacement jQuery plugin.
+
+## Other links
+
+[Must watch JavaScript talks](https://github.com/bolshchikov/js-must-watch)
+
+[The Origin of JavaScript with Brendan Eich](http://www.stitcher.com/podcast/ruby-rogues/javascript-jabber/e/124-jsj-the-origin-of-javascript-with-brendan-eich-35282918)
