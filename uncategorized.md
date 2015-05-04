@@ -35,3 +35,5 @@ Code should be deployed to environments in an automated manner. [Dandelion](htt
 [Horizontal Inheritance](http://radar.oreilly.com/2014/01/horizontal-reuse-an-alternative-to-inheritance.html)
 
 [Composition over Inheritance](http://en.wikipedia.org/wiki/Composition_over_inheritance)
+
+[Retronauts Episode 91: A Tengen Family Reunion](http://www.1up.com/flat/Retronauts/R041610.mp3) a conversation with NES programmers.
