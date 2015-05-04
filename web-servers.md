@@ -13,3 +13,7 @@ A web server refers to either the hardware (computer) or software (application) 
 A web server is responsible for and should be configured to set HTTP cache headers (see [HTTP > Caching](http.md#caching)) appropriately.
 
 A *web accelerator* serves as a front for your web server, speeding up delivery by various techniques including full-page caching and gzipping responses. [Varnish](https://www.varnish-cache.org/) is a popular, open source example.
+
+## Uncategorized
+
+[Loab Balancing FAQ](http://www.doesconsulting.com/faq.shtml)
