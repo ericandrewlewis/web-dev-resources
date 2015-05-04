@@ -33,3 +33,5 @@ Code should be deployed to environments in an automated manner. [Dandelion](htt
 [The Jargon File](http://www.catb.org/jargon/html/)
 
 [Horizontal Inheritance](http://radar.oreilly.com/2014/01/horizontal-reuse-an-alternative-to-inheritance.html)
+
+[Composition over Inheritance](http://en.wikipedia.org/wiki/Composition_over_inheritance)
