@@ -15,6 +15,8 @@ Model-View-Controller (and the plethora of related concepts) aim to create a pra
 
 [Backbone Fundamentals](https://github.com/addyosmani/backbone-fundamentals) by Addy Osmani covers MV* historically as well as practically.
 
+[React](https://facebook.github.io/react/index.html) is a view library. It introduced the concept of the virtual DOM — keeping track of the view's DOM and when changes are to be made to the view, only the atomic DOM manipulation methods are triggered on the existing elements, not a full re-render. See also [Flux](https://facebook.github.io/flux/) and [Relay/GraphQL](https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html).
+
 ## Templating Engines
 
 When rendering HTML via Javascript, a templating engine can be used to separate logic and markup. [Mustache](http://mustache.github.io/) is a great cross-language template engine.
